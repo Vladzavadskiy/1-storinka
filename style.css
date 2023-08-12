@@ -4,10 +4,6 @@ body {
     border: 3px solid white;
     border-radius: 30px;
     text-align: center;
-    margin:20px;
-}
-
-header {
 }
 
 h1 {
@@ -19,7 +15,7 @@ footer {
    border: 3px solid white;
     border-radius: 30px; 
     color: white; 
-    
+    margin:20px;
 }
 
 footer a {
@@ -32,6 +28,7 @@ footer a {
     border-radius: 30px; 
     width:292px; 
     height:114px;
+    margin:20px;
  }
 
  li{
