@@ -15,7 +15,8 @@ footer {
    border: 3px solid white;
     border-radius: 30px; 
     color: white; 
-    margin-bottom:20px;
+    margin-top:20px;
+    
 }
 
 footer a {
@@ -29,6 +30,7 @@ footer a {
     width:292px; 
     height:114px;
     margin-bottom:200px;
+    margin-top:20px;
  }
 
  li{
