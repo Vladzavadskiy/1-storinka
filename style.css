@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    border: 3px solid white;
+    border-radius: 30px;
+    text-align: center;
+}
+
+header {
+}
+
+h1 {
+    text-align: center;
+
+}
+
+footer {
+   border: 3px solid white;
+    border-radius: 30px; 
+    color: white; 
+    
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    font-size: 36px;
+}
+ img{
+    border: 3px solid white;
+    border-radius: 30px; 
+    width:292px; 
+    height:114px;
+ }
+
+ li{
+     font-size: 36px;
+ }
